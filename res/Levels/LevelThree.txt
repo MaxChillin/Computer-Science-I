@@ -1,0 +1,36 @@
+#Map file for tile-based game
+#(Lines that start with '#' are comments)
+#The tiles are:
+#	'~' = ScreenStarter
+#	'G' = Ground
+#	'L' = Tree Top Left
+#	'T' = Tree Top Middle
+#	'R' = Tree Top Right
+#	'S' = Tree Trunk
+#	'F' = Flag
+#	's' = Stacking Blocks
+#	'Q' = Question Mark Breakable Blocks
+#	'E' = Castle Building	
+#	'c' = Cloud
+#	'C' = Coin
+#	'g' = Goomba
+#	'3' = Red Koopa
+#	'5' = Red Koopa ParaTroopa
+#
+#
+~
+.
+     cc                                   C                                                                                                                                                               W
+                                          Cg g              cc                                                    cc                                cc    F  E        c                                   W
+                           3                                                                       cc                                                                                                     W
+                            CCC          LTTTTTR             CCCC         5   g             CC  CC                                                                                                        W
+                           LTTTR          SSSSS              LTTR                     CC                3        5     CC                      ss            c                                            W
+                            SSS         c SSSSS    CC         SS             LTTTTR     c                                      d     c         ss                                                         W
+                            SSS      C    SSSSS               SS              SSSS                     LTTTTTTR                   c          ssss                                                         W
+E          c                SSS     LTTTR SSSSS           c   SS              SSSS  d                   SSSSSS                               ssss                                                         W
+                        LTTTTTTR     SSS  SSSSS               SS       LTR    SSSS    c    d            SSSSSS     LTTR  LTTR              ssssss                                                         W
+                         SSSSSS      SSS  SSSSS             Q SS        S     SSSS                      SSSSSS      SS    SS               ssssss                                                         W
+                         SSSSSS   C  SSS  SSSSS               SS        S     SSSS           c   LTTR   SSSSSS      SS    SS          3    ssssss                                                         W
+                  LTTR   SSSSSS  LTR SSS  SSSSS         u     SS        S     SSSS                SS    SSSSSS  CCC SS    SSc              ssssss         s                                               W
+GGGGGGGGGGGGGGGG   SS    SSSSSS   S  SSS  SSSSS    LTTR     LTTTR LTTTR S     SSSS                SS    SSSSSS  LTR SS    SS    GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGG   SS    SSSSSS   S  SSS  SSSSS c   SS       SSS   SSS  S     SSSS                SS    SSSSSS   S  SS    SS    GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG

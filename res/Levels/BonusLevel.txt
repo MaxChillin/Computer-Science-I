@@ -1,0 +1,26 @@
+#Map file for tile-based game
+#(Lines that start with '#' are comments)
+#The tiles are:
+#	'~' = ScreenStarter
+#	'G' = Ground
+#	'O' = Long Pipe
+#	'o' = Sideways Pipe
+#	'S' = Blue Brick
+#	'C' = Coins
+#	Size: [16,15]
+~
+.    
+S   SSSSSSSSSSSSSSSSSSSSOS
+S                        S
+S                        S
+S                        S
+S          CCCCC         S
+S                        S
+S         CCCCCCC        S
+S                        S
+S         CCCCCCC        S
+S         SSSSSSS        S
+S         SSSSSSS     o  S
+S         SSSSSSS        S
+GGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGG

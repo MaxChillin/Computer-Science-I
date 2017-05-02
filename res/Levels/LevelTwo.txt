@@ -1,0 +1,38 @@
+#Map file for tile-based game
+#(Lines that start with '#' are comments)
+#The tiles are:
+#	'~' = ScreenStarter
+#	'G' = Ground
+#	'P' = Pipe
+#	'O' = Long Pipe
+#	'o' = Sideways Pipe
+#	'u' = Up Elevator
+#	'd' = Down Elevator
+#	'S' = Brick
+#	's' = Blue Block
+#	'Q' = Coin Block
+#	'p' = PowerUP Block
+#	'q' = Blue Steel
+#	'g' = Blue Goomba
+#	'2' = Blue Koopa
+#	'3' = Red Koopa
+#	'4' = Blue Pirahna Plant
+#	'M' = Mushroom
+#	't' = Star
+#	'C' = Coin
+~
+.                                                                                                     M
+S     SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSqSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS                 u     SSSSSSSO SSSSSSSSSSSSSSSSSSSSSSS   S                             
+S                                                              SS   SSSSSSS   SSSS      SSSSS                                                                                           SSSSSSSSSSSS              S         
+S                                                              SS   SSSSSSS   SSSS  g   SSSSS                                                             d                             SSSSSSSSSSSS              S         
+S                                                            SS         SSS    S    SS                                                                                                  SSSSSSSSSSSS              S          
+S                                                CCCC        SS         SSS    S    SS          CCCCCC                                                                                  SSSSSSSSSSSS              S           
+S                                                            SS         SSS    S    SS                                                                                                  SSSSSSSSSSSS              S           
+S                                              S SSSS t      SS         SSS    S M  SC          SSSSSS                    4                                                         o   SSSSSSSSSSSS              S           
+S                                   q          SCS  SCS      SS     CCCCSSS    SCq  Sq   g      SSSSSS              4                                          SSSSSp                   SSSSSSSSSSSS              S            
+S           pQQQQ         s s                  SSS  SSS      SSSS   SSSSSSS    SSS  SS  SSSSS                             P      4                    ss                 u    SSSSSSSSSSSSSSSSSSSSSS              S                     
+S                       s s s s       s          2 2         2 SS                      g                            P                  SS           gsss          3           SSSSSSSSSSSSSSSSSSSSSS  P   P   P   S                               
+S             g g     s s s s s s   g s s                      SS    g   g                                 g g g             g   P     SS          gssss  d                   SSSSSSSSSSSSSSSSSSSSSS              S                       
+S                   s s s s s s s s   s s                                                                                              SS          sssss                      SSSSSSSSSSSSSSSSSSSSSS              S                         
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG   GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG  GG  GGGGGGGGGGGGG       GGGGGGGG       GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG   GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG  GG  GGGGGGGGGGGGG       GGGGGGGG       GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG

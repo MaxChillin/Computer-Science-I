@@ -1,0 +1,37 @@
+#Map file for tile-based game
+#(Lines that start with '#' are comments)
+#The tiles are:
+#	'G' = Grey Brick
+#	'P' = White Pipe
+#	'L' = Lava top
+#	'l' = Lava bottom
+#	'O' = Fireball Line
+#	'o' = Lava Fire Ball
+#	'S' = Grey Steel
+#	's' = Bridge Blocks
+#	'Q' = Coin Block
+#	'q' = Red Steel
+#	'g' = Chain
+#	'2' = Professor GanLaugh
+#	'3' = Toad
+#	'M' = Mushroom
+#	'T' = Axe
+#	'4' = Blue Pirahna Plant
+#	'F' = Fire Obstacle
+#	'f' = Fireball
+~                                                                                                                                                                                                                        
+.
+.                                                                                                                                                                                                                      
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGG                                                                        GGG                                                                     GG                                GG                   GGGGGG
+GGGGGGGGGGGGGG                                                                        GGG                                                                     GG                                GG                   GGGGGG
+                                                             F                        GGG                                    F                               G                           2      GG                   GGGGGG
+                         GGGGGG G G G G G GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG                    GGG  GGGG GGG  GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG                                                       GGGGGG
+GGGG                     GGGGGG G G G G G GGG      GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG                  G G         G                                          G                                                       GGGGGG
+GGGGG                    GGGGGG G G G G G GGG      GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG             GG G  G          G                                          G           f        o            T                     GGGGGG
+GGGGGG                   GGGGGG G G G G G GGG   4  GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG                   G          G                      f                f  G                                 GGG                   GGGGGG
+GGGGGGGGGGGGGG  GG  GGG                                              F                GGG     GGG  GGGGG GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG       GGGGG  GGsssssssssssssssssGGG                   GGGGGG
+GGGGGGGGGGGGGG  GG  GGG                         P                                     GGG          G                                  F                              GGGGG  GG                 GGG                   GGGGGG
+GGGGGGGGGGGGGG  GG  GGG                                                               GGG          G                                                                 GGGGG  GG                 GGG          3        GGGGGG
+GGGGGGGGGGGGGGLLGGLLGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGLLGLLLLGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGLLLLLLLLLLLLLLLLLGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGllGGllGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGllGllllGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGlllllllllllllllllGGGGGGGGGGGGGGGGGGGGGGGGGGGG
